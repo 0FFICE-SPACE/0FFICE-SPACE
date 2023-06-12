@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0FFICE-SPACE
-- 👀 I’m interested in ... Algorave, Algorythm
+- 👀 I’m interested in ... Algojamming
 - 🌱 I’m currently learning ... SonicPi (rby base)
 - 💞️ I’m looking to collaborate on ... all things musical!
 - 📫 How to reach me ... callum.json.mitchell@gmail.com
